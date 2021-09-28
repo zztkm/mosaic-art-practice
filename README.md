@@ -13,6 +13,8 @@ Thanks: https://zenn.dev/eetann/books/2020-09-25-make-mosaic-art-python
 
 ## 実行方法
 
+**python3.9 での動作を確認しています**
+
 clone & cd:
 ```shell
 git clone https://github.com/zztkm/mosaic-art-practice.git
